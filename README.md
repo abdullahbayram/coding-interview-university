@@ -575,6 +575,11 @@ But don't forget to do coding problems from above while you learn!
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [[Review] Understanding Time Complexity: And Why Is It Essential to learn? | Medium (article)](https://medium.com/@ankushpanday/understanding-time-complexity-and-why-is-it-essential-to-learn-f409c25bf256)
 - [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
+- 
+- REVIEW AGAIN LATER
+  [ ] TopCoder (includes recurrence relations and master theorem):
+    - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
+
 
 Well, that's about enough of that.
 
