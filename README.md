@@ -564,17 +564,17 @@ But don't forget to do coding problems from above while you learn!
 - [X] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [X] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [X] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
-- [ ] [Practice Questions on Time Complexity Analysis (article)](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
-- [ ] [Time & Space Complexity | Overview | Practice Problems (article)](https://medium.com/@manishsundriyal/overview-time-space-complexity-f973513b701e)
-- [ ] [Big-O Notation - For Coding Interviews | Neetcode (video)](https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [X] [Practice Questions on Time Complexity Analysis (article)](https://www.geeksforgeeks.org/practice-questions-time-complexity-analysis/)
+- [X] [Time & Space Complexity | Overview | Practice Problems (article)](https://medium.com/@manishsundriyal/overview-time-space-complexity-f973513b701e)
+- [X] [Big-O Notation - For Coding Interviews | Neetcode (video)](https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode)
+- [X] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [X] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [X] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Understanding Time Complexity: And Why Is It Essential to learn? | Medium (article)](https://medium.com/@ankushpanday/understanding-time-complexity-and-why-is-it-essential-to-learn-f409c25bf256)
-- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
+- [X] [Cheat sheet](http://bigocheatsheet.com/)
+- [X] [[Review] Understanding Time Complexity: And Why Is It Essential to learn? | Medium (article)](https://medium.com/@ankushpanday/understanding-time-complexity-and-why-is-it-essential-to-learn-f409c25bf256)
+- [X] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 - 
 - REVIEW AGAIN LATER
   [ ] TopCoder (includes recurrence relations and master theorem):
